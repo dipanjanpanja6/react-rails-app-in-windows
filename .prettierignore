@@ -1,0 +1,12 @@
+# Ignore artifacts:
+.next
+node_modules
+public
+tmp
+test
+vendor
+
+# Ignore all HTML files:
+*.html
+*.cache
+.keep
