@@ -1,24 +1,30 @@
-# README
+# Setup System
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. first install latest version of node.js
+2. install rubyinstaller2
 
-Things you may want to cover:
 
-- Ruby version
+# Ruby version
 
-- System dependencies
+```
+$ ruby -v
+ruby 3.0.0p0 (2020-12-25 revision 95aff21468) [x64-mingw32]
+```
 
-- Configuration
+# System dependencies
 
-- Database creation
+# Configuration
 
-- Database initialization
+# Database creation
 
-- How to run the test suite
+# Database initialization
 
-- Services (job queues, cache servers, search engines, etc.)
+# How to run the test suite
 
-- Deployment instructions
+# Services (job queues, cache servers, search engines, etc.)
 
-- ...
+# Deployment instructions
+
+```
+
+```
